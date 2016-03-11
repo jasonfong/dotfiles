@@ -1,0 +1,7 @@
+# Sourced on all invocations of the shell
+# Should contain commands to set the command search path, environment variables, etc.
+
+
+export JAVA_HOME=$(/usr/libexec/java_home)
+
+source ~/.zsh/paths.zsh

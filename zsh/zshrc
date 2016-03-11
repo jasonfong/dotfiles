@@ -1,0 +1,7 @@
+# Sourced in interactive shells
+# Should contain commands to set up aliases, functions, options, key bindings, etc.
+
+
+source ~/.zsh/ohmyzsh.zsh
+source ~/.zsh/aliases.zsh
+source ~/.zsh/gcloud.zsh
