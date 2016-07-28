@@ -5,3 +5,4 @@
 source ~/.zsh/ohmyzsh.zsh
 source ~/.zsh/aliases.zsh
 source ~/.zsh/gcloud.zsh
+source ~/.zsh/cuda.zsh
